@@ -11,6 +11,7 @@
 *-backups
 *.kicad_prl
 *.sch-bak
+~*.kicad*.lck
 *~
 _autosave-*
 *.tmp
@@ -29,3 +30,37 @@ fp-info-cache
 *.xml
 *.csv
 
+# Gerber
+*.gbr
+*.gbrjob
+
+# Gerber Protel filename extensions
+*.gtp
+*.gts
+*.gtp
+*.gtl
+*.g1
+*.g2
+*.gp1
+*.gp2
+*.gbl
+*.gpb
+*.gbs
+*.gbo
+*.gd1
+*.gg1
+*.gko
+*.gm1
+*.gm3
+
+# Drill files
+*.drl
+
+# Component Placement
+*.pos
+
+# Footprint Report
+*.rpt
+
+# IPC-D-365 Netlist File
+*.d365
