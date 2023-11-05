@@ -1597,7 +1597,7 @@
     (property "Value" "CH9328" (at 157.48 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DIP:DIP-16_W7.62mm_SMDSocket_SmallPads" (at 157.48 110.49 0)
+    (property "Footprint" "Package_SO:SOP-16_3.9x9.9mm_P1.27mm" (at 157.48 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.wch.cn/downloads/CH9328DS1_PDF.html" (at 157.48 114.3 0)
